@@ -1,3 +1,24 @@
+# FeedReaders Test
+### Author: Anca Gaboreanu
+
+The **FeedReaders** uses Jasmine to test the functionality of a feed reader on website.
+
+ https://github.com/AncaGab/Arcade-Game
+
+## Table of Contents
+
+* [Instructions](#instructions)
+* [Project Overview](#project-overview)
+* [Why this Project](#why-this-project)
+
+
+## Instructions 
+
+In order to play or make changes you can clone or download Zip file the repository from 
+
+Open index.html with your favorite browser.
+
+
 # Project Overview
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
