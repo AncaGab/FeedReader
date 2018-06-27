@@ -3,16 +3,14 @@
 
 The **FeedReaders** uses Jasmine to test the functionality of a feed reader on website.
 
- https://github.com/AncaGab/Arcade-Game
-
 ## Table of Contents
 
 * [Instructions](#instructions)
 * [Project Overview](#project-overview)
 * [Why this Project](#why-this-project)
 * [What will I learn?](#what-will-i-learn?)
-* [How will this help my career?](#How will this help my career?)
-* [How will I complete this project?](#How will I complete this project?)
+* [How will this help my career?](#How-will-this-help-my-career?)
+* [How will I complete this project?](#How-will-I-complete-this-project?)
 
 
 ## Instructions 
