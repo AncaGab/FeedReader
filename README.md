@@ -10,11 +10,14 @@ The **FeedReaders** uses Jasmine to test the functionality of a feed reader on w
 * [Instructions](#instructions)
 * [Project Overview](#project-overview)
 * [Why this Project](#why-this-project)
+* [What will I learn?](#what-will-i-learn?)
+* [How will this help my career?](#How will this help my career?)
+* [How will I complete this project?](#How will I complete this project?)
 
 
 ## Instructions 
 
-In order to play or make changes you can clone or download Zip file the repository from 
+In order to play or make changes you can clone or download Zip file the repository from https://github.com/AncaGab/FeedReader
 
 Open index.html with your favorite browser.
 
